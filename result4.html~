@@ -9,7 +9,7 @@
          <tr>
             <th>Target</th>
             <th>Successor</th>
-            <th>Probability</th>
+            <th>Frequency</th>
          </tr>
          <tr>
             <td>has</td>

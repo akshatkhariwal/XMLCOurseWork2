@@ -1,14 +1,231 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <html>
-   <head>
-      <link rel="stylesheet" type="text/css" href="xquery.css"/>
-   </head>
    <body>
       <h1> Results </h1>
       <table>
          <tr>
-            <th>Target</th>
+            <th> Target </th>
             <th>Successor</th>
+         </tr>
+         <tr>
+            <td>has </td>
+            <td>there</td>
+         </tr>
+         <tr>
+            <td>has</td>
+            <td>n't </td>
+         </tr>
+         <tr>
+            <td>has</td>
+            <td>n't </td>
+         </tr>
+         <tr>
+            <td>has </td>
+            <td>large </td>
+         </tr>
+         <tr>
+            <td>has </td>
+            <td>been </td>
+         </tr>
+         <tr>
+            <td>has </td>
+            <td>been </td>
+         </tr>
+         <tr>
+            <td>has </td>
+            <td>gone </td>
+         </tr>
+         <tr>
+            <td>has </td>
+            <td>done </td>
+         </tr>
+         <tr>
+            <td>has </td>
+            <td>a </td>
+         </tr>
+         <tr>
+            <td>has </td>
+            <td>although </td>
+         </tr>
+         <tr>
+            <td>has </td>
+            <td>intentions </td>
+         </tr>
+         <tr>
+            <td>has </td>
+            <td>just </td>
+         </tr>
+         <tr>
+            <td>has </td>
+            <td>got </td>
+         </tr>
+         <tr>
+            <td>has </td>
+            <td>to </td>
+         </tr>
+         <tr>
+            <td>has </td>
+            <td>now </td>
+         </tr>
+         <tr>
+            <td>has </td>
+            <td>in </td>
+         </tr>
+         <tr>
+            <td>has </td>
+            <td>tropical </td>
+         </tr>
+         <tr>
+            <td>has </td>
+            <td>since </td>
+         </tr>
+         <tr>
+            <td>has</td>
+            <td>n't </td>
+         </tr>
+         <tr>
+            <td>has </td>
+            <td>dare </td>
+         </tr>
+         <tr>
+            <td>has </td>
+            <td>got </td>
+         </tr>
+         <tr>
+            <td>has</td>
+            <td>n't </td>
+         </tr>
+         <tr>
+            <td>has </td>
+            <td>a </td>
+         </tr>
+         <tr>
+            <td>has</td>
+            <td>n't </td>
+         </tr>
+         <tr>
+            <td>has </td>
+            <td>got </td>
+         </tr>
+         <tr>
+            <td>has </td>
+            <td>a </td>
+         </tr>
+         <tr>
+            <td>has </td>
+            <td>enough </td>
+         </tr>
+         <tr>
+            <td>has </td>
+            <td>been </td>
+         </tr>
+         <tr>
+            <td>has </td>
+            <td>enjoyed </td>
+         </tr>
+         <tr>
+            <td>has </td>
+            <td>somebody </td>
+         </tr>
+         <tr>
+            <td>has </td>
+            <td>moved </td>
+         </tr>
+         <tr>
+            <td>has</td>
+            <td>n't </td>
+         </tr>
+         <tr>
+            <td>has </td>
+            <td>happened </td>
+         </tr>
+         <tr>
+            <td>has </td>
+            <td>eluded </td>
+         </tr>
+         <tr>
+            <td>has </td>
+            <td>gone </td>
+         </tr>
+         <tr>
+            <td>has </td>
+            <td>to </td>
+         </tr>
+         <tr>
+            <td>has </td>
+            <td>to </td>
+         </tr>
+         <tr>
+            <td>has </td>
+            <td>three </td>
+         </tr>
+         <tr>
+            <td>has</td>
+            <td>to </td>
+         </tr>
+         <tr>
+            <td>has </td>
+            <td>to </td>
+         </tr>
+         <tr>
+            <td>has </td>
+            <td>you </td>
+         </tr>
+         <tr>
+            <td>has </td>
+            <td>been </td>
+         </tr>
+         <tr>
+            <td>has </td>
+            <td>a </td>
+         </tr>
+         <tr>
+            <td>has</td>
+            <td>n't </td>
+         </tr>
+         <tr>
+            <td>has </td>
+            <td>to </td>
+         </tr>
+         <tr>
+            <td>has </td>
+            <td>a </td>
+         </tr>
+         <tr>
+            <td>has </td>
+            <td>some </td>
+         </tr>
+         <tr>
+            <td>has </td>
+            <td>a </td>
+         </tr>
+         <tr>
+            <td>has </td>
+            <td>a </td>
+         </tr>
+         <tr>
+            <td>has  </td>
+            <td>of </td>
+         </tr>
+         <tr>
+            <td>has </td>
+            <td>a </td>
+         </tr>
+         <tr>
+            <td>has </td>
+            <td>been </td>
+         </tr>
+         <tr>
+            <td>has</td>
+            <td>n't </td>
+         </tr>
+         <tr>
+            <td>has </td>
+            <td>spoilt </td>
+         </tr>
+         <tr>
+            <td>has </td>
+            <td>to </td>
          </tr>
          <tr>
             <td>has </td>
@@ -120,19 +337,19 @@
          </tr>
          <tr>
             <td>has </td>
-            <td>one </td>
-         </tr>
-         <tr>
-            <td>has </td>
             <td>built </td>
          </tr>
          <tr>
             <td>has </td>
-            <td>gone </td>
+            <td>one </td>
          </tr>
          <tr>
             <td>has </td>
             <td>brilliantly </td>
+         </tr>
+         <tr>
+            <td>has </td>
+            <td>gone </td>
          </tr>
          <tr>
             <td>has </td>
@@ -208,11 +425,11 @@
          </tr>
          <tr>
             <td>has </td>
-            <td>come </td>
+            <td>chosen </td>
          </tr>
          <tr>
             <td>has </td>
-            <td>chosen </td>
+            <td>come </td>
          </tr>
          <tr>
             <td>has </td>
@@ -232,11 +449,11 @@
          </tr>
          <tr>
             <td>has </td>
-            <td>escaped </td>
+            <td>chosen </td>
          </tr>
          <tr>
             <td>has </td>
-            <td>chosen </td>
+            <td>escaped </td>
          </tr>
          <tr>
             <td>has </td>
@@ -312,11 +529,11 @@
          </tr>
          <tr>
             <td>has </td>
-            <td>since </td>
+            <td>made </td>
          </tr>
          <tr>
             <td>has </td>
-            <td>made </td>
+            <td>since </td>
          </tr>
          <tr>
             <td>has </td>
@@ -452,11 +669,11 @@
          </tr>
          <tr>
             <td>has </td>
-            <td>ever </td>
+            <td>been </td>
          </tr>
          <tr>
             <td>has </td>
-            <td>been </td>
+            <td>ever </td>
          </tr>
          <tr>
             <td>has </td>
@@ -488,243 +705,23 @@
          </tr>
          <tr>
             <td>has </td>
-            <td>there</td>
-         </tr>
-         <tr>
-            <td>has</td>
-            <td>n't </td>
-         </tr>
-         <tr>
-            <td>has</td>
-            <td>n't </td>
-         </tr>
-         <tr>
-            <td>has </td>
-            <td>large </td>
-         </tr>
-         <tr>
-            <td>has </td>
-            <td>been </td>
-         </tr>
-         <tr>
-            <td>has </td>
-            <td>been </td>
-         </tr>
-         <tr>
-            <td>has </td>
-            <td>gone </td>
-         </tr>
-         <tr>
-            <td>has </td>
-            <td>done </td>
-         </tr>
-         <tr>
-            <td>has </td>
-            <td>a </td>
-         </tr>
-         <tr>
-            <td>has </td>
-            <td>although </td>
-         </tr>
-         <tr>
-            <td>has </td>
-            <td>intentions </td>
-         </tr>
-         <tr>
-            <td>has </td>
-            <td>just </td>
-         </tr>
-         <tr>
-            <td>has </td>
-            <td>got </td>
-         </tr>
-         <tr>
-            <td>has </td>
-            <td>to </td>
-         </tr>
-         <tr>
-            <td>has </td>
-            <td>now </td>
-         </tr>
-         <tr>
-            <td>has </td>
-            <td>in </td>
-         </tr>
-         <tr>
-            <td>has </td>
-            <td>tropical </td>
-         </tr>
-         <tr>
-            <td>has </td>
-            <td>since </td>
-         </tr>
-         <tr>
-            <td>has</td>
-            <td>n't </td>
-         </tr>
-         <tr>
-            <td>has </td>
-            <td>dare </td>
-         </tr>
-         <tr>
-            <td>has </td>
-            <td>got </td>
-         </tr>
-         <tr>
-            <td>has</td>
-            <td>n't </td>
-         </tr>
-         <tr>
-            <td>has </td>
-            <td>a </td>
-         </tr>
-         <tr>
-            <td>has</td>
-            <td>n't </td>
-         </tr>
-         <tr>
-            <td>has </td>
-            <td>got </td>
-         </tr>
-         <tr>
-            <td>has </td>
-            <td>a </td>
-         </tr>
-         <tr>
-            <td>has </td>
-            <td>enough </td>
-         </tr>
-         <tr>
-            <td>has </td>
-            <td>enjoyed </td>
-         </tr>
-         <tr>
-            <td>has </td>
-            <td>been </td>
-         </tr>
-         <tr>
-            <td>has </td>
-            <td>somebody </td>
-         </tr>
-         <tr>
-            <td>has </td>
-            <td>moved </td>
-         </tr>
-         <tr>
-            <td>has</td>
-            <td>n't </td>
-         </tr>
-         <tr>
-            <td>has </td>
-            <td>happened </td>
-         </tr>
-         <tr>
-            <td>has </td>
-            <td>eluded </td>
-         </tr>
-         <tr>
-            <td>has </td>
-            <td>gone </td>
-         </tr>
-         <tr>
-            <td>has </td>
-            <td>to </td>
-         </tr>
-         <tr>
-            <td>has </td>
-            <td>to </td>
-         </tr>
-         <tr>
-            <td>has </td>
-            <td>three </td>
-         </tr>
-         <tr>
-            <td>has</td>
-            <td>to </td>
-         </tr>
-         <tr>
-            <td>has </td>
-            <td>to </td>
-         </tr>
-         <tr>
-            <td>has </td>
-            <td>you </td>
-         </tr>
-         <tr>
-            <td>has </td>
-            <td>been </td>
-         </tr>
-         <tr>
-            <td>has </td>
-            <td>a </td>
-         </tr>
-         <tr>
-            <td>has</td>
-            <td>n't </td>
-         </tr>
-         <tr>
-            <td>has </td>
-            <td>to </td>
-         </tr>
-         <tr>
-            <td>has </td>
-            <td>a </td>
-         </tr>
-         <tr>
-            <td>has </td>
-            <td>some </td>
-         </tr>
-         <tr>
-            <td>has </td>
-            <td>a </td>
-         </tr>
-         <tr>
-            <td>has </td>
-            <td>a </td>
-         </tr>
-         <tr>
-            <td>has  </td>
-            <td>of </td>
-         </tr>
-         <tr>
-            <td>has </td>
-            <td>a </td>
-         </tr>
-         <tr>
-            <td>has </td>
-            <td>been </td>
-         </tr>
-         <tr>
-            <td>has</td>
-            <td>n't </td>
-         </tr>
-         <tr>
-            <td>has </td>
-            <td>spoilt </td>
-         </tr>
-         <tr>
-            <td>has </td>
-            <td>to </td>
-         </tr>
-         <tr>
-            <td>has </td>
             <td>asked </td>
          </tr>
          <tr>
             <td>has </td>
-            <td>written </td>
-         </tr>
-         <tr>
-            <td>has </td>
-            <td>written </td>
-         </tr>
-         <tr>
-            <td>has </td>
-            <td>written </td>
-         </tr>
-         <tr>
-            <td>has </td>
             <td>never </td>
+         </tr>
+         <tr>
+            <td>has </td>
+            <td>written </td>
+         </tr>
+         <tr>
+            <td>has </td>
+            <td>written </td>
+         </tr>
+         <tr>
+            <td>has </td>
+            <td>written </td>
          </tr>
          <tr>
             <td>has </td>
@@ -860,11 +857,11 @@
          </tr>
          <tr>
             <td>has </td>
-            <td>I </td>
+            <td>been </td>
          </tr>
          <tr>
             <td>has </td>
-            <td>been </td>
+            <td>I </td>
          </tr>
          <tr>
             <td>has</td>
